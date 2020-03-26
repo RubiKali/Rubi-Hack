@@ -1,4 +1,4 @@
-# Awesome Penetration Testing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# zdOS hack-course
 
 > A collection of awesome penetration testing resources.
 
