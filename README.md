@@ -1,4 +1,4 @@
-# zdOS hack-course
+# Hack The World With Ruby
 
 > A collection of awesome penetration testing resources.
 
